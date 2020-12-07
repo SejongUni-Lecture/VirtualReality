@@ -4,5 +4,5 @@ I've not uploaded lecture materials or assignments due to copyright issues.
 
 ----
 ## Summary
-Virtual Reality Theory & History    
+Simple Unity Practice    
 
