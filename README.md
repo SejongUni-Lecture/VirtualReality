@@ -3,5 +3,6 @@ This repository is for **Virtual Reality** lecture related material and assignme
 I've not uploaded lecture materials or assignments due to copyright issues.  
 
 ----
-## Tool
-Unity 2019.3
+## Summary
+Virtual Reality Theory & History    
+
